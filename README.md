@@ -13,8 +13,8 @@ ADA-M Profile is therefore a form of structured metadata (i.e., data about eithe
 A software approach to create a valid ADA-M Profile has been made and compiled versions of the tool for both Mac OS X and Windows users. 
 
 #### Windows 10
-[ADA-Matrix.exe](https://1drv.ms/u/s!ApvdkozLlJldoAJ9jcA-GgCqnM37)
+[ADA-Matrix](https://1drv.ms/u/s!ApvdkozLlJldoBEicSd2jUQsKDwn)
 
 #### Mac OS X El Capitan v10.11
-[ADA-Matrix.app](https://1drv.ms/u/s!ApvdkozLlJldoANRhDOw4M67uZe2)
+[ADA-Matrix](https://1drv.ms/u/s!ApvdkozLlJldoBAdAjfxVgOh3HP0)
 
